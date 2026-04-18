@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dalibor31/dalibor31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](./banner.svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+Linux Infrastructure Security Specialist. Focused on building stable, containerized self-hosted systems — with an emphasis on minimal attack surface, rigorous security policies, and administrative automation.
+
+---
+
+### Focus
+
+| Domain | Description |
+|---|---|
+| 🔐 System Hardening | OS security auditing, SSH restrictions, and network access control |
+| 🚨 Intrusion Prevention | Active protection, log monitoring, and automated attack prevention |
+| 🐳 Docker Ecosystem | Containerization, Compose, isolation, and service security |
+| ☁️ Self-hosted Infrastructure | TrueNAS, Gitea, and private cloud stack management |
+| 🗄️ Database Administration | Database management and performance optimization |
+| ⚙️ Automation | Scripting, monitoring, and workflow optimization |
+
+---
+
+### Contact
+
+📧 [dalibor31@gmail.com](mailto:dalibor31@gmail.com) · 🌐 [vm-net.in.rs](https://vm-net.in.rs)
+
+---
+
+<sub><i>"A secure system isn't a product of luck — it's the result of discipline and sound architecture."</i></sub>
